@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abullard1
 - 👀 I’m interested in all things Computers and Technology
 - 🌱 I’m currently learning Android Development, 3D Modelling/Texturing and Game Development.
-- 💞️ I’m looking to collaborate on 3D Art and Games made with Unity.
+- 💞️ I’m looking to collaborate on Android App Development, 3D Art and Game Development with Unity.
 - 📫 How to reach me: Instagram: samueltheonlyone

@@ -51,8 +51,10 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 
 ---
 
+
 ### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&border_color=025CDA&theme=transparent)
+
 <details>
   <summary>
     <h3>

@@ -49,7 +49,7 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 <br />
 
 
-#
+---
 
 ### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&border_color=025CDA&theme=transparent)
@@ -59,6 +59,6 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
       👨🏻‍💻 My coding journey
     </h3>
   </summary>
-  I got into contact with computers and technology at a very early age. When I was 5 years old my parents brought home a Playstation 1. From then on I was hooked. I continued engaging with computers and videogames until I was about 10, when I first thought about creating my own content. I started creating maps for games like Counterstrike and Warcraft 3, which was when I delved deeper into the inner workings of these games. This took the form of modifying game files and such, where I first saw concepts like datatypes and variables. A few years later, when I was about 14 I made my first Unity game. It was quite simple and nothing special but I still cherrish it dearly. After that I have always had an interest in programming and knew I was going to go into that area. [Unfinished]
+  I got into contact with computers and technology at a very early age. When I was 5 years old my parents brought home a Playstation 1 and it completely amazed me. From then on I was hooked. I continued engaging with computers and videogames until I was about 10, when I first thought about creating my own content. I started creating maps for games like Counterstrike and Warcraft 3, which was when I delved deeper into the inner workings of how these games worked. This took the form of modifying game files and such, where I first encountered concepts like datatypes and variables. A few years later, when I was about 14 I made my first game in Unity. It was quite simple and really nothing special but I learnt a lot while working on it. Since then I have always continued having an interest in programming and knew that I would someday study/work in that field.
 </details>
 

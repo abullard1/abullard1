@@ -8,6 +8,8 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 
 ---
 
+### 📱Socials
+
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-bullard-112539248/">
     <img alt="LinkedIn Profile" title="Check out my LinkedIn Profile!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -29,7 +31,7 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 
 ---
 
-### 🈺🔧 Languages and Tools
+### 🔧 Languages and Tools
 <br />
 <p align="center">
 <img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -71,7 +73,9 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 ---
 
 ### 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&border_color=025CDA&theme=transparent)
+<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&border_color=025CDA&theme=transparent" />
+</p>
 
 <details>
   <summary>

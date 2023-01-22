@@ -30,27 +30,45 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 ---
 
 ### 🈺🔧 Languages and Tools
-<img align="left" alt="Java" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Kotlin" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
-<img align="left" alt="Python" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img align="left" alt="Anaconda" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="Numpy" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Pandas" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="HTML" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />     
-<img align="left" alt="CSS" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="PostgreSQL" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Android Studio" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="IntelliJ" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img align="left" alt="Pycharm" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="left" alt="Firebase" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Blender" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-<img align="left" alt="Unity" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Photoshop" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br />
+<p align="center">
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="PostgreSQL" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Android Studio" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="IntelliJ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Pycharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
 
 
 ---
-
 
 ### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&border_color=025CDA&theme=transparent)

@@ -4,7 +4,7 @@
 
 Thanks for checking out my Github Profile. My names Samuel, but everyone just calls me Sam. I'm interested in everything Tech, with a focus on interactive experiences, be it mobile applications, AR & VR Applications or video-games. My main goal with anything that I do is to not only provide something that merely works, but something that is useful, effective, intuitive and fun to use. Two of my main principles are to always look at what I'm building from the perspective of the end-user, and to be open and receptive to constructive criticism. I believe what makes me stand out is my richness of ideas, creativity, attention to detail as well as my drive to finish what I started. I encourage everyone to do the same.
 
-<ins> My studies have had a focus on the following topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Multimedia Technology*, *Data-Science*, *3D-Modelling*
+<ins> My studies have had a focus on the following topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology*, *Data-Science*, *3D-Modelling*
 
 ---
 

@@ -38,7 +38,8 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img align="center" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />

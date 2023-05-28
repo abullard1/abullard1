@@ -38,6 +38,13 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img align="center" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="PostgreSQL" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
@@ -45,12 +52,6 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 <img align="center" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="PostgreSQL" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Android Studio" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 &nbsp;&nbsp;

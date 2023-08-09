@@ -13,13 +13,13 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-bullard-112539248/">
     <img alt="LinkedIn Profile" title="Check out my LinkedIn Profile!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://de.quora.com/profile/Samuel-Bullard">
+  <a href="https://meta.stackexchange.com/users/1398850/samuel-bullard">
     <img alt="StackExchange Profile Profile" title="Check out my StackExchange Profile!" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"/></a>
   <a href="https://discord.com/channels/@samudschigo#4989">
     <img alt="Discord Profile" title="Add me on Discord!" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/samueltheonlyone/">
     <img alt="Instagram Profile" title="Check out my Instagram Profile!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/channels/@samudschigo#4989">
+  <a href="https://twitter.com/samudschigo">
     <img alt="Twitter Profile" title="Check out my Twitter Profile!" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whitew"/></a>
   <a href="https://www.reddit.com/user/samuel_bullard">
     <img alt="Reddit Profile" title="Check out my Reddit Profile!" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>

@@ -23,7 +23,7 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
     <img alt="Twitter Profile" title="Check out my Twitter Profile!" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whitew"/></a>
   <a href="https://www.reddit.com/user/samuel_bullard">
     <img alt="Reddit Profile" title="Check out my Reddit Profile!" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://medium.com/@samuelbullard0">
+  <a href="https://medium.com/@samuelruairibullard">
     <img alt="Medium Profile" title="Check out my Medium Profile!" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://de.quora.com/profile/Samuel-Bullard">
     <img alt="Quora Profile" title="Check out my Quora Profile!" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>   </a>

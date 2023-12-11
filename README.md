@@ -54,11 +54,29 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Android Studio" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="IntelliJ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Pycharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 &nbsp;&nbsp;
@@ -67,6 +85,20 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 <img align="center" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>

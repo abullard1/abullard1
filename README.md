@@ -2,7 +2,7 @@
 
 **`Student for Media Informatics 💻📱🎥 and Information Science 📊📈🔣 at the University of Regensburg`**
 <br>
-`Currently employed at:` [**`cloudfood Web & Code`**](https://cloudfood.de/) `👨🏻‍💻☁️🥄`
+<ins>`Currently employed at:`</ins> [**`cloudfood Web & Code`**](https://cloudfood.de/) `👨🏻‍💻☁️🥄`
 
 Thanks for checking out my Github Profile. My names Samuel, but everyone just calls me Sam. I'm interested in everything Tech, with a focus on interactive experiences and data science, be it Mobile Applications, Web Applications, AR & VR Applications, Video-Games or Natural Language Processing. My main goal with anything that I do is to not only provide something that works, but something that is useful, effective, intuitive and fun to use. Two of my main principles are to always look at what I'm building from the perspective of the end-user, and to be open and receptive to constructive criticism. Feel free to check out my repositories/projects; You might find something that piques your interest. 
 

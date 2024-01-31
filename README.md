@@ -1,12 +1,12 @@
 ### 🙋🏻 Samuel Ruairi Bullard
 
 **`Student for Media Informatics 💻📱🎥 and Information Science 📊📈🔣 at the University of Regensburg`**
+<br>
+`Currently employed at:` [**`cloudfood Web & Code`**](https://cloudfood.de/) `👨🏻‍💻☁️🥄`
 
 Thanks for checking out my Github Profile. My names Samuel, but everyone just calls me Sam. I'm interested in everything Tech, with a focus on interactive experiences and data science, be it Mobile Applications, Web Applications, AR & VR Applications, Video-Games or Natural Language Processing. My main goal with anything that I do is to not only provide something that works, but something that is useful, effective, intuitive and fun to use. Two of my main principles are to always look at what I'm building from the perspective of the end-user, and to be open and receptive to constructive criticism. Feel free to check out my repositories/projects; You might find something that piques your interest. 
 
 <ins> My studies have had a focus on the following topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology*, *Data-Science*, *3D-Modelling*, *2D/3D Computer Graphics*, *Computer Vision*, *Machine Learning*, *Natural Language Processing (NLP)*, *Usability Engineering*, *Machine Learning Basics*, *Tangible Interaction*.
-
-Currently employed at [**cloudfood Web & Code**](https://cloudfood.de/) 👨🏻‍💻☁️🥄
 
 ---
 
@@ -50,35 +50,37 @@ Currently employed at [**cloudfood Web & Code**](https://cloudfood.de/) 👨🏻
 &nbsp;&nbsp;
 <img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+<img align="center" alt="OpenGL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+<img align="center" alt="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img align="center" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="center" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
+<img align="center" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="center" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Android Studio" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="IntelliJ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img align="center" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Pycharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="center" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 &nbsp;&nbsp;
@@ -88,19 +90,21 @@ Currently employed at [**cloudfood Web & Code**](https://cloudfood.de/) 👨🏻
 &nbsp;&nbsp;
 <img align="center" alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="center" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+<img align="center" alt="Webflow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
+<img align="center" alt="Filezilla" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+<img align="center" alt="Gimp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+<img align="center" alt="Inkscape" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
+<img align="center" alt="Jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img align="center" alt="Slack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="LaTeX" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>

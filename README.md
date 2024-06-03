@@ -52,6 +52,8 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />

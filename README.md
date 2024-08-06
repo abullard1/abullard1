@@ -1,12 +1,14 @@
-### 🙋🏻 Samuel Ruairi Bullard
+### 🙋🏻 Samuel RuairÍ Bullard
 
 **`Student for Media Informatics 💻📱🎥 and Information Science 📊📈🔣 at the University of Regensburg`**
 <br>
 <ins>`Currently employed at:`</ins> [**`cloudfood Web & Code`**](https://cloudfood.de/) `👨🏻‍💻☁️🥄`
 
-Thanks for checking out my Github Profile. My names Samuel, but everyone just calls me Sam. I'm interested in everything Tech, with a focus on interactive experiences and data science, be it Mobile Applications, Web Applications, AR & VR Applications, Video-Games or Natural Language Processing in the sense of AI and ML. My main goal with anything that I do is to not only provide something that works, but something that is useful, effective, intuitive and fun to use. Two of my main principles are to always look at what I'm building from the perspective of the end-user, and to be open and receptive to constructive criticism. Feel free to check out my repositories/projects; You might find something that piques your interest. 
+Thanks for checking out my Github Profile. My names Samuel, but everyone just calls me Sam. I'm interested in everything Tech, with a focus on interactive experiences and information-science. Whether it's web apps, mobile apps, video games, or my latest interests—AI, machine learning, and information retrieval—I'm always eager to learn something new. As a student, my main focus is gaining deep knowledge, whether it's on the cutting-edge or tried-and-true concepts, and building cool projects along the way of course. Feel free to check out my repositories/projects; You might find something that piques your interest or provides you with inspiration for one of your own projects.
 
-<ins> My studies have had a focus on the following topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology*, *Data-Science*, *3D-Modelling*, *2D/3D Computer Graphics*, *Computer Vision*, *Machine Learning*, *Natural Language Processing (NLP)*, *Deep Learning*, *Usability Engineering*, *Tangible Interaction*.
+<ins> Next to the standard courses in computer science, such as calculus, linear algebra, statistics etc., my studies have had a focus on the following more technical topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology (3D, Video, Audio)*, *Data-Science and Data Visualization*, *2D/3D Computer Graphics*, *Computer Vision*, *Machine Learning (ML)*, *Natural Language Processing (NLP)*, *Deep Learning*, *Usability Engineering*, *Information Retrieval (IR)*.
+
+<ins> While working at cloudfood, I have had the chance to get into backend development using Django and other tools and constituents of the framework.
 
 ---
 

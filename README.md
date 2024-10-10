@@ -61,7 +61,8 @@ Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'
 
 ### 📂 Featured Repositories
 
-[![Repo1 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&border_color=1085C0&bg_color=1085C008&theme=transparent&repo=Sams-3D-Library)](https://github.com/abullard1/Sams-3D-Library)
+[![Repo1 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&border_color=1085C0&bg_color=1085C008&theme=transparent&repo=Steam-Review-Constructiveness-Classifier)](https://github.com/abullard1/Steam-Review-Constructiveness-Classifier)
+[![Repo2 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&border_color=1085C0&bg_color=1085C008&theme=transparent&repo=Sams-3D-Library)](https://github.com/abullard1/Sams-3D-Library)
 
 ---
 

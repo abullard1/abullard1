@@ -1,4 +1,19 @@
-### 🙋🏻 Samuel RuairÍ Bullard
+<div>
+  <img align="left" src="https://img.shields.io/github/followers/abullard1?label=Followers&style=flat" alt="follower_count">
+  <img align="left" src="https://img.shields.io/github/stars/abullard1?label=Stars&style=flat" alt="stars_count">
+
+  <img align="right" src="https://komarev.com/ghpvc/?username=abullard1&color=brightgreen" alt="watching_count">
+  <img align="right" src="https://badges.pufler.dev/commits/monthly/abullard1" alt="commit_count">
+  <img align="right" src="https://badges.pufler.dev/repos/abullard1" alt="repo_count">
+</div>
+
+<br>
+
+---
+
+<br>
+
+### 🙋🏻 Samuel Ruairí Bullard
 
 **`Student for Media Informatics 💻📱🎥 and Information Science 📊📈🔣 at the University of Regensburg`**
 <br>
@@ -9,6 +24,21 @@ Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'
 <ins> Next to the standard courses in computer science, such as calculus, linear algebra, statistics etc., my studies have had a focus on the following more technical topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology (3D, Video, Audio)*, *Data-Science and Data Visualization*, *2D/3D Computer Graphics*, *Computer Vision*, *Machine Learning (ML)*, *Natural Language Processing (NLP)*, *Deep Learning*, *Usability Engineering*, *Information Retrieval (IR)*, *Computational Intelligence*.
 
 <ins> While working at cloudfood, I have had the chance to get into backend development using Django and other tools and constituents of the framework.
+
+---
+
+### 📂 Featured Repositories
+
+[![Repo1 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&repo=Sams-3D-Library)](https://github.com/abullard1/Sams-3D-Library)
+<!-- [![Repo1 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&repo=Steam-Review-Constructiveness-Classifier)](https://github.com/abullard1/Steam-Review-Constructiveness-Classifier) -->
+
+---
+
+### 🛠️ Currently Working On:
+- **Computer Vision, AI & NLP:** Developing an Electron application for assisted lecture note-taking and summarization.
+- **Fine-tuned Image Classification:** Building a model to classify elements of specific types of satellite imagery.
+- **Self-Hosted Homelab Setup:** Setting up a self-hosted homelab environment with a variety of tools for personal use and potentially for hosting public-facing webpages.
+- **Arduino Mailbox Sensor:** Creating a mailbox sensor with Arduino for the cloudfood office.
 
 ---
 
@@ -34,132 +64,181 @@ Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'
 ---
 
 ### 🔧 Languages and Tools
-<br />
-<p align="center">
-<img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="PostgreSQL" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="SQLite" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Elasticsearch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="OpenGL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="YAML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="JSON" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="XML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="ViteJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="VueJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Android Studio" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="IntelliJ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Pycharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Rider" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="WebStorm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Digital Ocean" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Webflow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Filezilla" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Gimp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Inkscape" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Slack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Notion" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="LaTeX" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="rStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Kaggle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="Gitlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-&nbsp;&nbsp;
-<img align="center" alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-</p>
+
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frameworks and Libraries</th>
+    <td>
+      <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Plotly" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="VueJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="ViteJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="OpenGL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases &amp; Search</th>
+    <td>
+      <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      &nbsp;&nbsp;
+      <img alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Elasticsearch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>DevOps and Cloud</th>
+    <td>
+      <img alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="GitLab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Digital Ocean" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Embedded Systems</th>
+    <td>
+      <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Data Science and Analysis</th>
+    <td>
+      <img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Kaggle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="RStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Tools and IDEs</th>
+    <td>
+      <img alt="PyCharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="WebStorm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Rider" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Android Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Design and UI</th>
+    <td>
+      <img alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Inkscape" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Gamedev &amp; 3D Tools</th>
+    <td>
+      <img alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>Other Tools</th>
+    <td>
+      <img alt="Insomnia" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Slack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Notion" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="FileZilla" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+      &nbsp;&nbsp;
+      <img alt="Markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="LaTeX" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="YAML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="JSON" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="XML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <th>OSs'</th>
+    <td>
+      <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      &nbsp;&nbsp;
+      <img alt="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg" />
+      &nbsp;&nbsp;
+      <img alt="Windows 11" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -175,6 +254,6 @@ Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'
       👨🏻‍💻 My coding journey
     </h3>
   </summary>
-I got into contact with computers and technology at a very early age. When I was 5 years old my parents brought home a Playstation 1, which blew me away. From then on I was hooked. I continued engaging with computers and videogames until I was about 10, which was when I first thought about creating content. I started creating maps for games like Counterstrike and Warcraft 3, which was when I delved deeper into the inner workings of how these games worked. This took the form of modifying game files and such, where I first encountered concepts like datatypes and variables. A few years later, when I was about 14 I made my first game in Unity. It was quite simple and nothing noteworthy but it sparked my interest even further. Since then I have always continued to have an interest in tech and made it my goal to study and work in tech.
+I got into contact with computers and technology at a very early age. When I was 5 years old my parents brought home a Playstation 1, which blew me away. From then on I was hooked. I continued engaging with computers and videogames until I was about 10, which was when I first thought about creating content. I started creating maps for games like Counterstrike and Warcraft 3, which was when I delved deeper into the inner workings of how these games worked. This took the form of modifying game files and such, where I first encountered concepts like datatypes and variables. A few years later, when I was about 14, I created my first game in Unity. It was quite simple and nothing particularly noteworthy but it sparked my interest even further. From then on I have always continued having an interest in tech and have been pursuing this interest ever since.
 </details>
 

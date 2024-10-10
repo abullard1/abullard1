@@ -9,36 +9,32 @@
 
 <br>
 
----
-
-<br>
-
 ### 🙋🏻 Samuel Ruairí Bullard
 
-**`Student for Media Informatics 💻📱🎥 and Information Science 📊📈🔣 at the University of Regensburg`**
+**`Student for Media Informatics 💻📱🎥 and Information Science 📊📈🔣 at the University of Regensburg 🏫👨🏻‍🎓`**
 <br>
 <ins>`Currently employed at:`</ins> [**`cloudfood Web & Code`**](https://cloudfood.de/) `👨🏻‍💻☁️🥄`
 
 Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'm interested in everything Tech, with a focus on interactive experiences and information-science. Whether it's web apps, mobile apps, video games, or my latest interests—AI, machine learning, and information retrieval—I'm always eager to learn something new. As a student, my main focus is gaining deep knowledge, whether it's on the cutting-edge or tried-and-true concepts, and building cool projects along the way of course. Feel free to check out my repositories/projects; You might find something that piques your interest or provides you with inspiration for one of your own projects.
 
-<ins> Next to the standard courses in computer science, such as calculus, linear algebra, statistics etc., my studies have had a focus on the following more technical topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology (3D, Video, Audio)*, *Data-Science and Data Visualization*, *2D/3D Computer Graphics*, *Computer Vision*, *Machine Learning (ML)*, *Natural Language Processing (NLP)*, *Deep Learning*, *Usability Engineering*, *Information Retrieval (IR)*, *Computational Intelligence*.
+<ins>Next to the standard courses in computer science, such as calculus, linear algebra, statistics etc., my studies have had a focus on the following more technical topics:</ins>
 
-<ins> While working at cloudfood, I have had the chance to get into backend development using Django and other tools and constituents of the framework.
+- *Software Engineering*
+- *Human-Computer Interaction (HCI)*
+- *Mobile Development*
+- *Web Development*
+- *Multimedia Technology (3D, Video, Audio)*
+- *Data-Science and Data Visualization*
+- *2D/3D Computer Graphics*
+- *Computer Vision (CV)*
+- *Machine Learning (ML)*
+- *Natural Language Processing (NLP)*
+- *Deep Learning*
+- *Usability Engineering*
+- *Information Retrieval (IR)*
+- *Computational Intelligence*
 
----
-
-### 📂 Featured Repositories
-
-[![Repo1 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&repo=Sams-3D-Library)](https://github.com/abullard1/Sams-3D-Library)
-<!-- [![Repo1 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&repo=Steam-Review-Constructiveness-Classifier)](https://github.com/abullard1/Steam-Review-Constructiveness-Classifier) -->
-
----
-
-### 🛠️ Currently Working On:
-- **Computer Vision, AI & NLP:** Developing an Electron application for assisted lecture note-taking and summarization.
-- **Fine-tuned Image Classification:** Building a model to classify elements of specific types of satellite imagery.
-- **Self-Hosted Homelab Setup:** Setting up a self-hosted homelab environment with a variety of tools for personal use and potentially for hosting public-facing webpages.
-- **Arduino Mailbox Sensor:** Creating a mailbox sensor with Arduino for the cloudfood office.
+<ins>While working at cloudfood, I have had the chance to get into backend development using Django and other tools and constituents of the framework.</ins>
 
 ---
 
@@ -60,6 +56,20 @@ Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'
   <a href="https://de.quora.com/profile/Samuel-Bullard">
     <img alt="Quora Profile" title="Check out my Quora Profile!" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>   </a>
 </p>
+
+---
+
+### 📂 Featured Repositories
+
+[![Repo1 Card](https://github-readme-stats.vercel.app/api/pin/?username=abullard1&border_color=1085C0&bg_color=1085C008&theme=transparent&repo=Sams-3D-Library)](https://github.com/abullard1/Sams-3D-Library)
+
+---
+
+### 🛠️ Currently Working On:
+- **Computer Vision, AI & NLP:** Developing an Electron application for assisted lecture note-taking and summarization.
+- **Fine-tuned Image Classification:** Building a model to classify elements of specific types of satellite imagery.
+- **Self-Hosted Homelab Setup:** Setting up a self-hosted homelab environment with a variety of tools for personal use and potentially for hosting public-facing webpages.
+- **Arduino Mailbox Sensor:** Creating a mailbox sensor with Arduino for the cloudfood office.
 
 ---
 
@@ -245,7 +255,7 @@ Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'
 
 ### 📊 Stats
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&border_color=025CDA&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&border_color=1085C0&bg_color=1085C008&theme=transparent" />
 </p>
 
 <details>

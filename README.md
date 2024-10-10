@@ -4,9 +4,9 @@
 <br>
 <ins>`Currently employed at:`</ins> [**`cloudfood Web & Code`**](https://cloudfood.de/) `👨🏻‍💻☁️🥄`
 
-Thanks for checking out my Github Profile. My names Samuel, but everyone just calls me Sam. I'm interested in everything Tech, with a focus on interactive experiences and information-science. Whether it's web apps, mobile apps, video games, or my latest interests—AI, machine learning, and information retrieval—I'm always eager to learn something new. As a student, my main focus is gaining deep knowledge, whether it's on the cutting-edge or tried-and-true concepts, and building cool projects along the way of course. Feel free to check out my repositories/projects; You might find something that piques your interest or provides you with inspiration for one of your own projects.
+Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'm interested in everything Tech, with a focus on interactive experiences and information-science. Whether it's web apps, mobile apps, video games, or my latest interests—AI, machine learning, and information retrieval—I'm always eager to learn something new. As a student, my main focus is gaining deep knowledge, whether it's on the cutting-edge or tried-and-true concepts, and building cool projects along the way of course. Feel free to check out my repositories/projects; You might find something that piques your interest or provides you with inspiration for one of your own projects.
 
-<ins> Next to the standard courses in computer science, such as calculus, linear algebra, statistics etc., my studies have had a focus on the following more technical topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology (3D, Video, Audio)*, *Data-Science and Data Visualization*, *2D/3D Computer Graphics*, *Computer Vision*, *Machine Learning (ML)*, *Natural Language Processing (NLP)*, *Deep Learning*, *Usability Engineering*, *Information Retrieval (IR)*.
+<ins> Next to the standard courses in computer science, such as calculus, linear algebra, statistics etc., my studies have had a focus on the following more technical topics:</ins> *Software Engineering*, *Human-Computer Interaction (HCI)*, *Mobile Development*, *Web Development*, *Multimedia Technology (3D, Video, Audio)*, *Data-Science and Data Visualization*, *2D/3D Computer Graphics*, *Computer Vision*, *Machine Learning (ML)*, *Natural Language Processing (NLP)*, *Deep Learning*, *Usability Engineering*, *Information Retrieval (IR)*, *Computational Intelligence*.
 
 <ins> While working at cloudfood, I have had the chance to get into backend development using Django and other tools and constituents of the framework.
 
@@ -21,8 +21,6 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
     <img alt="StackExchange Profile Profile" title="Check out my StackExchange Profile!" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"/></a>
   <a href="https://discord.com/channels/@samudschigo#4989">
     <img alt="Discord Profile" title="Add me on Discord!" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.instagram.com/samueltheonlyone/">
-    <img alt="Instagram Profile" title="Check out my Instagram Profile!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/samudschigo">
     <img alt="Twitter Profile" title="Check out my Twitter Profile!" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whitew"/></a>
   <a href="https://www.reddit.com/user/samuel_bullard">
@@ -50,6 +48,8 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="PostgreSQL" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="SQLite" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
@@ -62,6 +62,12 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Elasticsearch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="OpenGL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
@@ -70,11 +76,29 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="YAML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="JSON" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="XML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 &nbsp;&nbsp;
-<img align="center" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
+<img align="center" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="ViteJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="VueJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Android Studio" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 &nbsp;&nbsp;
@@ -84,13 +108,23 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="Pycharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Rider" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="WebStorm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Digital Ocean" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img align="center" alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 &nbsp;&nbsp;
@@ -108,9 +142,23 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
 &nbsp;&nbsp;
 <img align="center" alt="Slack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="Notion" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="LaTeX" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 &nbsp;&nbsp;
+<img align="center" alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="rStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Kaggle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="Gitlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+&nbsp;&nbsp;
+<img align="center" alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 </p>
 
 
@@ -127,6 +175,6 @@ Thanks for checking out my Github Profile. My names Samuel, but everyone just ca
       👨🏻‍💻 My coding journey
     </h3>
   </summary>
-I got into contact with computers and technology at a very early age. When I was 5 years old my parents brought home a Playstation 1, which blew me away. From then on I was hooked. I continued engaging with computers and videogames until I was about 10, when I first thought about creating content. I started creating maps for games like Counterstrike and Warcraft 3, which was when I delved deeper into the inner workings of how these games worked. This took the form of modifying game files and such, where I first encountered concepts like datatypes and variables. A few years later, when I was about 14 I made my first game in Unity. It was quite simple and nothing noteworthy but it sparked my interest even further. Since then I have always continued to have an interest in tech and made it my goal to study and work in tech.
+I got into contact with computers and technology at a very early age. When I was 5 years old my parents brought home a Playstation 1, which blew me away. From then on I was hooked. I continued engaging with computers and videogames until I was about 10, which was when I first thought about creating content. I started creating maps for games like Counterstrike and Warcraft 3, which was when I delved deeper into the inner workings of how these games worked. This took the form of modifying game files and such, where I first encountered concepts like datatypes and variables. A few years later, when I was about 14 I made my first game in Unity. It was quite simple and nothing noteworthy but it sparked my interest even further. Since then I have always continued to have an interest in tech and made it my goal to study and work in tech.
 </details>
 

@@ -33,8 +33,6 @@ Thanks for checking out my Github Profile. My names Samuel, or Sam for short. I'
 - *Information Retrieval (IR)*
 - *Computational Intelligence*
 
-<ins>While working at cloudfood, I have had the chance to get into backend development using Django and other tools and constituents of the framework.</ins>
-
 ---
 
 ### 📱Socials

@@ -3,7 +3,6 @@
   <img align="left" src="https://img.shields.io/github/stars/abullard1?label=Stars&style=flat" alt="stars_count">
 
   <img align="right" src="https://komarev.com/ghpvc/?username=abullard1&color=brightgreen" alt="watching_count">
-  <img align="right" src="https://badges.pufler.dev/commits/monthly/abullard1" alt="commit_count">
   <img align="right" src="https://badges.pufler.dev/repos/abullard1" alt="repo_count">
 </div>
 

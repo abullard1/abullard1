@@ -3,10 +3,13 @@
   <img align="left" src="https://img.shields.io/github/stars/abullard1?label=Stars&style=flat" alt="stars_count">
 
   <img align="right" src="https://komarev.com/ghpvc/?username=abullard1&color=brightgreen" alt="watching_count">
-  <img align="right" src="https://badges.pufler.dev/repos/abullard1" alt="repo_count">
+  <!-- Replacement for repo count -->
+  <img align="right"
+       src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabullard1&query=%24.public_repos&label=Repos&style=flat&cacheSeconds=3600"
+       alt="repo_count">
 </div>
-
 <br>
+
 
 ### 🙋🏻 Samuel Ruairí Bullard
 

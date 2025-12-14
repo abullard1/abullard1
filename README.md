@@ -13,7 +13,7 @@
 
 ### 🙋🏻 Samuel Ruairí Bullard
 
-**`Student for Media Informatics 💻📱🎥 and Information Science 📊📈🔣 at the University of Regensburg 🏫👨🏻‍🎓`**
+**`Student in Human Centred AI 🤖✨ at the University of Regensburg 🏫👨🏻‍🎓`**
 <br>
 <ins>`Currently employed at:`</ins> [**`cloudfood Web & Code`**](https://cloudfood.de/) `👨🏻‍💻☁️🥄`
 

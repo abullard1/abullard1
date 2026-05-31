@@ -53,10 +53,10 @@ Before that, I completed a **combinatory B.A. in Media Informatics and Informati
 
 <p align="center">
   <a href="https://github.com/abullard1/abullardUR-GermEval-Shared-Task-2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abullard1&repo=abullardUR-GermEval-Shared-Task-2025&theme=transparent&hide_border=true" alt="Pinned repository: GermEval 2025 shared-task submission" />
+    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=abullardUR-GermEval-Shared-Task-2025&theme=transparent&hide_border=true" alt="Pinned repository: GermEval 2025 shared-task submission" />
   </a>
   <a href="https://github.com/abullard1/Steam-Review-Constructiveness-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abullard1&repo=Steam-Review-Constructiveness-Classifier&theme=transparent&hide_border=true" alt="Pinned repository: Steam Review Constructiveness Classifier" />
+    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=Steam-Review-Constructiveness-Classifier&theme=transparent&hide_border=true" alt="Pinned repository: Steam Review Constructiveness Classifier" />
   </a>
 </p>
 
@@ -87,8 +87,8 @@ Before that, I completed a **combinatory B.A. in Media Informatics and Informati
 ## GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abullard1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats for abullard1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abullard1&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=320" alt="Top languages used by abullard1" />
+  <img height="180em" src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api?username=abullard1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats for abullard1" />
+  <img height="180em" src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/top-langs?username=abullard1&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=320" alt="Top languages used by abullard1" />
 </p>
 
 ## Activity

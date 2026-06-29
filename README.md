@@ -52,8 +52,11 @@ Before that, I completed a **combinatory B.A. in Media Informatics and Informati
 ## Featured repositories
 
 <p align="center">
+  <a href="https://github.com/abullard1/claude-bionify">
+    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=claude-bionify&theme=transparent&hide_border=true" alt="🎮 Pinned repository: claude-bionify" />
+  </a>
   <a href="https://github.com/abullard1/Steam-Review-Constructiveness-Classifier">
-    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=Steam-Review-Constructiveness-Classifier&theme=transparent&hide_border=true" alt="Pinned repository: Steam Review Constructiveness Classifier" />
+    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=Steam-Review-Constructiveness-Classifier&theme=transparent&hide_border=true" alt="📖 Pinned repository: Steam Review Constructiveness Classifier" />
   </a>
 </p>
 

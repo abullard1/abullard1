@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/samuelruairi">
-    <img src="https://img.shields.io/badge/X-%40samuelruairi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (@samuelruairi)" />
+    <img src="https://img.shields.io/badge/%40samuelruairi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (@samuelruairi)" />
   </a>
   <a href="https://huggingface.co/abullard1">
     <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile" />

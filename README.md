@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/samuel-bullard-112539248/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/samuelruairi">
+    <img src="https://img.shields.io/badge/X-%40samuelruairi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (@samuelruairi)" />
+  </a>
   <a href="https://huggingface.co/abullard1">
     <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile" />
   </a>
@@ -52,11 +55,11 @@ Before that, I completed a **combinatory B.A. in Media Informatics and Informati
 ## Featured repositories
 
 <p align="center">
-  <a href="https://github.com/abullard1/claude-bionify">
-    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=claude-bionify&theme=transparent&hide_border=true" alt="🎮 Pinned repository: claude-bionify" />
+  <a href="https://github.com/abullard1/Quoth">
+    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=Quoth&theme=transparent&hide_border=true" alt="Pinned repository: Quoth" />
   </a>
-  <a href="https://github.com/abullard1/Steam-Review-Constructiveness-Classifier">
-    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=Steam-Review-Constructiveness-Classifier&theme=transparent&hide_border=true" alt="📖 Pinned repository: Steam Review Constructiveness Classifier" />
+  <a href="https://github.com/abullard1/claude-bionify">
+    <img src="https://github-readme-stats-samuel-bullards-projects.vercel.app/api/pin/?username=abullard1&repo=claude-bionify&theme=transparent&hide_border=true" alt="Pinned repository: claude-bionify" />
   </a>
 </p>
 
@@ -100,6 +103,7 @@ Before that, I completed a **combinatory B.A. in Media Informatics and Informati
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-bullard-112539248/)
+- [X (@samuelruairi)](https://x.com/samuelruairi)
 - [Hugging Face](https://huggingface.co/abullard1)
 - [URAI GitHub organization](https://github.com/urai-group)
 - [URAI LinkedIn](https://www.linkedin.com/company/109986758/)
